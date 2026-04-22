@@ -21,6 +21,7 @@ Existing psychological counseling datasets often suffer from monolithic client p
 
 ⏳ **Coming soon:**
 - Generated counseling dataset PsyChainD (Test split)
+- Curated data seeds (from PsyDial, PsyDT and PsycounD) adapted for our generation pipeline
 - Detailed usage instruction
 
 ## Contact
