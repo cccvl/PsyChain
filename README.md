@@ -18,10 +18,10 @@ Existing psychological counseling datasets often suffer from monolithic client p
 ✅ **Available now:**
 - Dialogue generation code implemented with AutoGen (`generate_dialogues.py`)
 - Dialogue quality evaluation code (`evaluation.py`)
+- Generated counseling dataset PsyChainD (`PsyChainD_Test.json`)
+- Curated data seeds (from PsyDial, PsyDT and PsycounD) adapted for our generation code (`DataSeed.json`)
 
 ⏳ **Coming soon:**
-- Generated counseling dataset PsyChainD (Test split)
-- Curated data seeds (from PsyDial, PsyDT and PsycounD) adapted for our generation code
 - Detailed usage instruction
 
 ## Contact
